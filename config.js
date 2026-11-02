@@ -2,6 +2,6 @@
 // Use the Project URL (https://<ref>.supabase.co, no /rest/v1) and the anon/publishable key.
 // Leave both empty to run in offline demo mode.
 export const CONFIG = {
-  SUPABASE_URL: '',
-  SUPABASE_ANON_KEY: '',
+  SUPABASE_URL: 'https://fqfcutbkhgxjicwrmiso.supabase.co',
+  SUPABASE_ANON_KEY: 'sb_publishable_nbiPKY5VzKBk7gRjbddyTw_0dFgmj_c',
 };
